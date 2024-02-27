@@ -1,1 +1,6 @@
+
+User3: This will cause a conflict!
+==============
 User2: THIS WILL CAUSE A CONF!
+==============
+Conflict Resloved!
